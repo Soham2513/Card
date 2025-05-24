@@ -1,6 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+
  */
 package card;
 
@@ -10,7 +11,8 @@ package card;
  * A suit (clubs, hearts, spades, diamonds).
  * There are 52 cards in a deck, no jokers.
  * This code is to be used in ICE1. When you create your own branch,
- * add your name as a modifier.
+ * modifier Soham
+ * id= 991797785
  * @author srinivsi
  */
 public class Card {
